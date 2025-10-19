@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Basic to Advanced Pandas by Study Mart & aiQuest Intelligence</title>
-</head>
+
 <body>
   <h1>Basic to Advanced Pandas by Study Mart & aiQuest Intelligence</h1>
   <p>Welcome to the <strong>Basic to Advanced Pandas</strong> repository! This repository contains comprehensive materials to help you learn Pandas, a powerful data manipulation library in Python. Curated by Study Mart and aiQuest Intelligence, this course covers topics from basic to advanced levels, including a quick start guide "5 Minutes to Pandas".</p>
